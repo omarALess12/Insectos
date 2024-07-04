@@ -1,2 +1,2 @@
-# Insectos
-Puebras de deteccion y clasificacion
+# IDENTIFICACIONDEPLAGAS
+Puebras de deteccion 
