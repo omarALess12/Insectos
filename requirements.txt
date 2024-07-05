@@ -1,5 +1,5 @@
 # Repositorio específico para lap
-git+https://github.com/gatagat/lap@new-packaging
+git+https://github.com/gatagat/lap@stable-version-tag
 
 # Dependencias de Python
 streamlit==1.2.0 
