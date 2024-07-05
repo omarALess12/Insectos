@@ -1,6 +1,3 @@
-# Repositorio específico para lap
-git+https://github.com/gatagat/lap@v1.0.0
-
 # Dependencias de Python
 streamlit==1.2.0 
 torch==2.0.1 
@@ -12,3 +9,6 @@ Pillow
 numpy
 protobuf
 scikit-image
+
+# Instalación de lap desde PyPI
+lap==0.4.0  # Reemplaza con la versión específica de lap en PyPI que deseas utilizar
